@@ -1,0 +1,15 @@
+C:\Users\Mathe\source\repos\MedicalApp\MedicalApp\MedicalApp\bin\Debug\netstandard2.0\MedicalApp.deps.json
+C:\Users\Mathe\source\repos\MedicalApp\MedicalApp\MedicalApp\bin\Debug\netstandard2.0\MedicalApp.dll
+C:\Users\Mathe\source\repos\MedicalApp\MedicalApp\MedicalApp\bin\Debug\netstandard2.0\ref\MedicalApp.dll
+C:\Users\Mathe\source\repos\MedicalApp\MedicalApp\MedicalApp\bin\Debug\netstandard2.0\MedicalApp.pdb
+C:\Users\Mathe\source\repos\MedicalApp\MedicalApp\MedicalApp\obj\Debug\netstandard2.0\MedicalApp.csprojAssemblyReference.cache
+C:\Users\Mathe\source\repos\MedicalApp\MedicalApp\MedicalApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Mathe\source\repos\MedicalApp\MedicalApp\MedicalApp\obj\Debug\netstandard2.0\ConsultasPage.xaml.g.cs
+C:\Users\Mathe\source\repos\MedicalApp\MedicalApp\MedicalApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Mathe\source\repos\MedicalApp\MedicalApp\MedicalApp\obj\Debug\netstandard2.0\MedicalApp.AssemblyInfoInputs.cache
+C:\Users\Mathe\source\repos\MedicalApp\MedicalApp\MedicalApp\obj\Debug\netstandard2.0\MedicalApp.AssemblyInfo.cs
+C:\Users\Mathe\source\repos\MedicalApp\MedicalApp\MedicalApp\obj\Debug\netstandard2.0\MedicalApp.dll
+C:\Users\Mathe\source\repos\MedicalApp\MedicalApp\MedicalApp\obj\Debug\netstandard2.0\ref\MedicalApp.dll
+C:\Users\Mathe\source\repos\MedicalApp\MedicalApp\MedicalApp\obj\Debug\netstandard2.0\MedicalApp.pdb
+C:\Users\Mathe\source\repos\MedicalApp\MedicalApp\MedicalApp\obj\Debug\netstandard2.0\MedicalApp.csproj.CoreCompileInputs.cache
+C:\Users\Mathe\source\repos\MedicalApp\MedicalApp\MedicalApp\obj\Debug\netstandard2.0\XamlC.stamp
