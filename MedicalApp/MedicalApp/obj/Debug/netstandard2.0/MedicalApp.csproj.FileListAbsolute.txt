@@ -11,5 +11,8 @@ C:\Users\Mathe\source\repos\MedicalApp\MedicalApp\MedicalApp\obj\Debug\netstanda
 C:\Users\Mathe\source\repos\MedicalApp\MedicalApp\MedicalApp\obj\Debug\netstandard2.0\MedicalApp.dll
 C:\Users\Mathe\source\repos\MedicalApp\MedicalApp\MedicalApp\obj\Debug\netstandard2.0\ref\MedicalApp.dll
 C:\Users\Mathe\source\repos\MedicalApp\MedicalApp\MedicalApp\obj\Debug\netstandard2.0\MedicalApp.pdb
+C:\Users\Mathe\source\repos\MedicalApp\MedicalApp\MedicalApp\obj\Debug\netstandard2.0\AdicionarConsultaPage.xaml.g.cs
+C:\Users\Mathe\source\repos\MedicalApp\MedicalApp\MedicalApp\obj\Debug\netstandard2.0\EscolherLocalPage.xaml.g.cs
 C:\Users\Mathe\source\repos\MedicalApp\MedicalApp\MedicalApp\obj\Debug\netstandard2.0\MedicalApp.csproj.CoreCompileInputs.cache
 C:\Users\Mathe\source\repos\MedicalApp\MedicalApp\MedicalApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Mathe\source\repos\MedicalApp\MedicalApp\MedicalApp\obj\Debug\netstandard2.0\NovoUsuarioPage.xaml.g.cs

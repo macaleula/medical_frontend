@@ -9,11 +9,6 @@ namespace MedicalApp.Model
     {
         public Response response { get; set; }
 
-        public static string GenerateURL()
-        {
-            return Constants.VENUE_SEARCH;//Constants.VENUE_SEARCH, user);
-        }
-
 
     }
 
@@ -21,6 +16,23 @@ namespace MedicalApp.Model
     {
         public int id { get; set; }
         public string nome { get; set; }
+
+        public static TipoUsuario GetInstance(int id)
+        {
+            TipoUsuario newInstance = new TipoUsuario();
+            newInstance.id = -1;
+            if(id == 1)
+            {
+                newInstance.id = 1;
+                newInstance.nome = "Médico";
+            }
+            else if(id == 2)
+            {
+                newInstance.id = 2;
+                newInstance.nome = "Paciente";
+            }
+            return newInstance;
+        }
     }
 
     public class Usuario
@@ -28,7 +40,13 @@ namespace MedicalApp.Model
         public int id { get; set; }
         public TipoUsuario tipoUsuario { get; set; }
         public string username { get; set; }
+        public string password { get; set; }
         public string nome { get; set; }
+
+        public override string ToString()
+        {
+            return this.nome;
+        }
     }
 
     public class Consulta
@@ -37,6 +55,7 @@ namespace MedicalApp.Model
         public Usuario medico { get; set; }
         public Usuario paciente { get; set; }
         public string data { get; set; }
+
     }
 
     public class Response

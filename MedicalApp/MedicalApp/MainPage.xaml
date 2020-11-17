@@ -5,16 +5,21 @@
 
     <StackLayout VerticalOptions="Center"
                  Margin="20">
-        <Entry x:Name="emailEntry"
-                Placeholder="Email Adress"
-                Keyboard="Email"/>
+        <Entry x:Name="usernameEntry"
+               Text="tenorio"
+                Placeholder="Username"/>
         <Entry x:Name="passwordEntry"
+               Text="123"
                 Placeholder="Password"
                 IsPassword="True"/>
         <Button x:Name="LoginButton"
                 Margin="0,50,0,0"
                 Text="Log in"
                 Clicked="LoginButton_Clicked"/>
+        <Button x:Name="RegisterButton"
+                Margin="0,2,0,0"
+                Text="Novo usuario"
+                Clicked="RegisterButton_Clicked"/>
 
     </StackLayout>
 

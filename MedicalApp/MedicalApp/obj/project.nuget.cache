@@ -1,15 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "AlrCTS2eLeuExOYuJOCF5Je2Dig67HYBNy/LqytTsZqGUOMBbOwKrI9uNJTdLtF7mUQK7SqyAjO1NWmzlksc3g==",
+  "dgSpecHash": "YNcPs5W4zoUyM3VW4ZEl1ieW1tdMaZnO6JWHldUvorF/cVTTZsNnjN+M5bg1pRBJUHf0m5bkl5kPAkOGo2wd0A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mathe\\source\\repos\\MedicalApp\\MedicalApp\\MedicalApp\\MedicalApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mathe\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Mathe\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\Mathe\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Mathe\\.nuget\\packages\\plugin.permissions\\6.0.1\\plugin.permissions.6.0.1.nupkg.sha512",
     "C:\\Users\\Mathe\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Mathe\\.nuget\\packages\\xam.plugin.geolocator\\4.5.0.6\\xam.plugin.geolocator.4.5.0.6.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512",
+    "C:\\Users\\Mathe\\.nuget\\packages\\xamarin.forms.maps\\4.6.0.1141\\xamarin.forms.maps.4.6.0.1141.nupkg.sha512"
   ],
   "logs": []
 }

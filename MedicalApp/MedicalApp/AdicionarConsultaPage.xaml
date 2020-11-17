@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:customcomponents="clr-namespace:MedicalApp.CustomComponents"
+             x:Class="MedicalApp.AdicionarConsultaPage">
+    <StackLayout VerticalOptions="Center"
+                 Margin="20">
+        <Picker x:Name="pckmedico" HorizontalOptions="FillAndExpand" Title="Selecione o médico:">
+        </Picker>
+        <DatePicker x:Name="DataPicker"
+            MinimumDate="01/01/2018"
+            MaximumDate="12/31/2018"
+            Date="06/21/2018" />
+        <TimePicker x:Name="_timePicker"
+                    Time="11:00:00"
+                    Unfocused="_timePicker_Unfocused"
+                    Format="T"/>
+        <Button x:Name="NovaConsultaButton"
+                Margin="0,50,0,0"
+                Text="Marcar consulta"
+                Clicked="NovaConsultaButton_Clicked"/>
+
+    </StackLayout>
+</ContentPage>

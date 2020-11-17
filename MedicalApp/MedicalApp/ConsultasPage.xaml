@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:customcomponents="clr-namespace:MedicalApp.CustomComponents"
              x:Class="MedicalApp.ConsultasPage">
     <ContentPage.ToolbarItems>
-        <ToolbarItem Text="Add"
-                     Clicked="ToolbarItem_Clicked"/>
     </ContentPage.ToolbarItems>
     <ListView x:Name="consultasListView"
+              Margin="20"
               ItemSelected="consultasListView_ItemSelected" >
         <ListView.ItemTemplate>
             <DataTemplate>
@@ -21,8 +21,10 @@
                             <RowDefinition Height="*"/>
                         </Grid.RowDefinitions>
 
-                        <Label Text="{Binding medico.nome}"
+                        <StackLayout>
+                            <Label Text="{Binding medico.nome}"
                               FontAttributes="Bold"/>
+                        </StackLayout>
                         <Label Grid.Row="1"
                                Text="{Binding data}"/>
                     </Grid>
